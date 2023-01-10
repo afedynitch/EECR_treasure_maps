@@ -27,7 +27,7 @@ All variations of sky maps shown in Fig. 5, 6, 7 and B2.
 - **JF12**: Jansson-Farrar 12 with default settings from CRPropa3 including strided and turbulent magnetic fields switched on
 - **JF12regular**: Jansson-Farrar 12 with default settings from CRPropa3, only regular component, no random magnetic fields
 - **JF12Planck**: Jansson-Farrar 12 with parameters tuned by the Planck Collaboration as implemented in CRPropa3, strided and turbulent component switched on
-- **TF17**: Terral-Ferriere 17 with default settings. No random fields are available in the model.
+- **TF17**: Terral-Ferriere 17 with default settings from CRPropa3. No random fields are available in the model.
 
 The next level of sub-folders is named `[gmf_model]_[composition]_[energy]` assumed when computing the back-tracked sky maps.
 
