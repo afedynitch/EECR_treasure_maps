@@ -1,7 +1,7 @@
 # Treasure Maps
 
 This repository is a collection of additional figures of our work published in the Astrophysical Journal.
-If you are using any of the figures printed in the paper in any derived work, please ask for our permission. Other figures from this repository can be used in derived works. In any case, please cite our work via
+If you are using any of the figures printed in the paper in any derived work, please ask for our permission. Other figures from this repository can be used in derived works. In any case, please cite our work via entries from
 
 - [Inspirehep.net](https://inspirehep.net/literature/2173102)
 - [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv221015885G/abstract)
@@ -16,7 +16,7 @@ The subfolder [tables](1_GZK_Horizon/tables) contains the tabulated values for t
 
 ## [2. Source catalogs](2_Source_catalogs)
 
-Sky maps of the source catalogs used in the paper and shown in Fig. 3 for different maximal distances from the Milky Way in Mpc. One set of figures for all three catalogs and one set for SBG and Jetted AGN only. 
+Sky maps of the source catalogs used in the paper and shown in Fig. 3 for different maximal distances from the Milky Way in Mpc. One set of figures for all three catalogs, and one set for SBG and Jetted AGN only. 
 
 ## [3. Treasure maps](3_Treasure_Maps/)
 
@@ -31,7 +31,7 @@ All variations of sky maps shown in Fig. 5, 6, 7 and B2.
 
 The next level of sub-folders is named `[gmf_model]_[composition]_[energy]` assumed when computing the back-tracked sky maps.
 
-The files at the final sub-folder level fllow the naming scheme 
+The files at the final sub-folder level follow the naming scheme 
 
     `[initial_exposure_function]_gmf_delay_[gmf_model]_[composition]_[A_obs]_[B_egmf]ng_[energy]`.pdf
 
