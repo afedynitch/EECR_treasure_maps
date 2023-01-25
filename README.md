@@ -1,5 +1,7 @@
 # Treasure Maps
 
+[![DOI](https://zenodo.org/badge/586429027.svg)](https://zenodo.org/badge/latestdoi/586429027)
+
 This repository is a collection of additional figures of our work published in the Astrophysical Journal.
 If you are using any of the figures printed in the paper in any derived work, please ask for our permission. Other figures from this repository can be used in derived works. In any case, please cite our work via entries from
 
